@@ -12,8 +12,7 @@ A fast and simple SMS bomber based on Python.
 - Easy installation
 ## 🎞️ Demo
 
-[YouTube Video](https://www.youtube.com/watch?v=hfwHPAxgxMg)
-[![YouTube Video](http://img.youtube.com/vi/hfwHPAxgxMg/0.jpg)](http://www.youtube.com/watch?v=hfwHPAxgxMg "2024 SMS Bomber! En iyisi. | SMS Tool v2.0"
+[![YouTube Video](http://img.youtube.com/vi/hfwHPAxgxMg/0.jpg)](http://www.youtube.com/watch?v=hfwHPAxgxMg "2024 SMS Bomber! En iyisi. | SMS Tool v2.0")
 ## 🖼️ Screenshots
 
 <img src="https://github.com/wiperdev/SMS-Tool/assets/104322299/205445c5-3958-419b-9c0f-2db3553e1ece" width=60% height=60%>
