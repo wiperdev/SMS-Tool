@@ -12,7 +12,7 @@ A fast and simple SMS bomber based on Python.
 - Easy installation
 ## 🎞️ Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hfwHPAxgxMg?si=-j5475Y_Mu5q768H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[YouTube Video](https://www.youtube.com/watch?v=hfwHPAxgxMg)
 ## 🖼️ Screenshots
 
 <img src="https://github.com/wiperdev/SMS-Tool/assets/104322299/205445c5-3958-419b-9c0f-2db3553e1ece" width=60% height=60%>
