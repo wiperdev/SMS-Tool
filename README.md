@@ -4,11 +4,12 @@
 
 ![GPLv3 License](https://img.shields.io/github/stars/wiperdev/SMS-Tool)
 
-A fast and simple SMS bomber based on Python.
+A fast and simple SMS bomber based on Python. Always up to date with update support. Usage on most devices with cross platform support. Currently working with numbers from Turkey.
 ## ✨ Features
 
 - 32 powerful APIs
 - Cross-platform support
+- Threading
 - Easy installation
 ## 🎞️ Demo
 
