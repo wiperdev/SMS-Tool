@@ -12,12 +12,13 @@ A fast and simple SMS bomber based on Python.
 - Easy installation
 ## 🎞️ Demo
 
-Click on the photo.
+Click on the gif to watch the video.
+
 [![YouTube Video](http://img.youtube.com/vi/hfwHPAxgxMg/0.jpg)](http://www.youtube.com/watch?v=hfwHPAxgxMg "2024 SMS Bomber! En iyisi. | SMS Tool v2.0")
 ## 🖼️ Screenshots
 
 <img src="https://github.com/wiperdev/SMS-Tool/assets/104322299/205445c5-3958-419b-9c0f-2db3553e1ece" width=60% height=60%>
-
+<br><br>
 <img src="https://github.com/wiperdev/SMS-Tool/assets/104322299/8880a9de-e562-42a7-b974-d3f706456739" width=60% height=60%>
 
 
