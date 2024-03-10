@@ -25,7 +25,7 @@ Click on the gif to watch the full video.
 
 ## 🔍 FAQ
 
-#### Q: Which countries' phone numbers does your tool work with?
+#### Q: Which countries' phone numbers does your tool work with??
 
 A: For now we only support phone numbers from Turkey.
 
