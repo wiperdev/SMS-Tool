@@ -43,4 +43,4 @@ A: Yes, in addition to Windows support, we also have Android and iOS support.
  - [TikTok](https://tiktok.com/@wiperww)
 ## ✉️ Contact
 
-If you want to buy or have questions, our [Discord server](https://discord.gg/bomber) is here.
+If you want to buy or have questions, our [Discord server](https://discord.gg/smsbomber) is here.
