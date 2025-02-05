@@ -4,7 +4,7 @@
 
 ![GPLv3 License](https://img.shields.io/github/stars/wiperdev/SMS-Tool)
 
-A fast and simple SMS bomber based on Python. Always up to date with update support. Usage on most devices with cross-platform support. Currently working with numbers from Turkey. Join our [Discord server](https://discord.gg/smsbomber) to purchase.
+A fast and simple SMS bomber based on Python. Always up to date with update support. Usage on most devices with cross-platform support. Currently working with numbers from Turkey. Join our [Discord server](https://discord.gg/bomber) to purchase.
 ## ✨ Features
 
 - 64 powerful APIs
@@ -15,7 +15,7 @@ A fast and simple SMS bomber based on Python. Always up to date with update supp
 
 Click on the gif to watch the full video.
 
-[<img src="https://github.com/wiperdev/SMS-Tool/assets/104322299/630742be-3b04-4378-a5ba-2f9f5cc9134b">](https://www.youtube.com/watch?v=hfwHPAxgxMg)
+[<img src="https://github.com/wiperdev/SMS-Tool/assets/104322299/630742be-3b04-4378-a5ba-2f9f5cc9134b">](https://www.youtube.com/watch?v=I2LWUb0uf1Q)
 ## 🖼️ Screenshots
 
 <img src="https://github.com/wiperdev/SMS-Tool/assets/104322299/205445c5-3958-419b-9c0f-2db3553e1ece" width=60% height=60%>
@@ -39,8 +39,7 @@ A: Yes, in addition to Windows support, we also have Android and iOS support.
 ## 📱 Our Social Media Accounts
 
  - [YouTube](https://youtube.com/@w1per)
- - [Discord](https://discord.gg/smsbomber)
- - [TikTok](https://tiktok.com/@wiperww)
+ - [Discord](https://discord.gg/bomber)
 ## ✉️ Contact
 
-If you want to buy or have questions, our [Discord server](https://discord.gg/smsbomber) is here.
+If you want to buy or have questions, our [Discord server](https://discord.gg/bomber) is here.
