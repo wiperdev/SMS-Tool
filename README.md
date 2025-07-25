@@ -4,7 +4,7 @@
 
 ![GPLv3 License](https://img.shields.io/github/stars/wiperdev/SMS-Tool)
 
-A fast and simple SMS bomber based on Python. Always up to date with update support. Usage on most devices with cross-platform support. Currently working with numbers from Turkey. Join our [Discord server](https://discord.gg/bomber) to purchase.
+A fast and simple SMS bomber based on Python. Always up to date with update support. Usage on most devices with cross-platform support. Currently working with numbers from Turkey. Join our [Discord server](https://discord.gg/yFr4kemBcX) to purchase.
 ## ✨ Features
 
 - 55 powerful APIs
@@ -39,7 +39,7 @@ A: Yes, in addition to Windows support, we also have Android and iOS support.
 ## 📱 Our Social Media Accounts
 
  - [YouTube](https://youtube.com/@w1per)
- - [Discord](https://discord.gg/Knuecj8w9C)
+ - [Discord](https://discord.gg/yFr4kemBcX)
 ## ✉️ Contact
 
-If you want to buy or have questions, our [Discord server](https://discord.gg/Knuecj8w9C) is here.
+If you want to buy or have questions, our [Discord server](https://discord.gg/yFr4kemBcX) is here.
