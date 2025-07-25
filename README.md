@@ -7,7 +7,7 @@
 A fast and simple SMS bomber based on Python. Always up to date with update support. Usage on most devices with cross-platform support. Currently working with numbers from Turkey. Join our [Discord server](https://discord.gg/yFr4kemBcX) to purchase.
 ## ✨ Features
 
-- 55 powerful APIs
+- 51 powerful APIs
 - Cross-platform support
 - Threading
 - Easy installation
